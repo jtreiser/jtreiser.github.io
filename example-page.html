@@ -1,12 +1,39 @@
-<!-- We will be building a page today. We can find these in class notes -->
- <!-- <!DOCTYPE html> shift 1 then hit tab to create this beggining step -->
+<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Example Page</title>
+    <!-- Delete after style sheet shown to work
+      <style>
+      header {
+        background-color: #777;
+      }
+    </style> -->
+    <link rel="stylesheet" href="css/example-style.css" />
+  </head>
+  <body>
+    <!-- always validate your code here https://validator.w3.org/#validate_by_input -->
+    <!-- add wrapper to handle desktop size -->
+    <div id="wrapper"> 
+      <header>
+        <!-- TODO: add logo and menu later -->
+      </header>
+      <main>
+        <h1>header 1</h1>
+        <ul>
+          <li>box1</li>
+          <li>box2</li>
+          <li>box3</li>
+          <li>box4</li>
+          
+        </ul>
+        <!-- youtube code creates error -->
+        <iframe src="https://www.youtube.com/embed/cTIvHN-HXmE?si=rVawaDgbeGq-UXNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        <p>paragraph</p>
+      </main>
+      <footer>footer</footer>
+    </div>
+  </body>
 </html>
