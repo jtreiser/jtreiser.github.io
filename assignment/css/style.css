@@ -99,3 +99,10 @@ h1 {
   background-color: #04AA6D; /* Add a green color to the "active/current" link */
   color: white;
 }
+footer {
+  background-color: #008000;
+  color: #fff;
+  padding: 10px 20px;
+  display: flex;
+  flex-flow: column;
+}
