@@ -61,7 +61,7 @@ body {font-family: 'Times New Roman', Times, serif;}
   width: 13.6%;
   text-align: center;
   margin-bottom: 5px;
-  font-size:12px;
+  font-size: .9rem;
   color: #777;
 }
 
@@ -75,7 +75,7 @@ body {font-family: 'Times New Roman', Times, serif;}
 h1 {
   text-align:center;
   font-family:'Times New Roman', Times, serif; 
-  
+  font-size: 1.5rem;
 }
 footer {
   text-align: center;
@@ -88,7 +88,6 @@ footer {
   font-size: 20px;
 }
 a {
-  background-color: #eee; /* Grey background color */
   color: black; /* Black text color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
