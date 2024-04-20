@@ -76,16 +76,16 @@ h1 {
   text-align:center;
   font-family:'Times New Roman', Times, serif; 
   font-size: 1.5rem;
+  color: #006400;
 }
 footer {
   text-align: center;
-  background-color: #008000;
-  color: #fff;
+  color: #006400;
   padding: 10px 20px;
   display: flex;
   flex-flow: column;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 20px;
+  font-size: 1rem
 }
 a {
   color: black; /* Black text color */
@@ -109,5 +109,17 @@ header {
   flex-flow: column;
   font-size: 50px;
 }
+body {
+  background-color: lightgrey;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #006400;
+  text-align: center;
+}
 
-
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1rem;
+  color: #006400;
+}
