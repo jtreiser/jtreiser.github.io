@@ -1,13 +1,24 @@
 body {
   background-color: #d3d3d3;
 }
-a {
+menu {
+  list-style: none;
+}
+menu a,
+footer a {
   color: #006400;
   text-decoration: none;
+}
+menu a:hover {
+  background-color: #ccc; /* Dark grey background on mouse-over */
+}
+footer a {
+  padding: 12px; /* Add some padding */
 }
 a:hover {
   border-bottom: 2px solid #006400;
 }
 footer {
+  margin-top: 20%;
   text-align: center;
 }
