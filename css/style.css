@@ -4,6 +4,11 @@ body {
 menu {
   list-style: none;
 }
+
+div, body{
+margin: auto;
+}
+
 menu a,
 footer a {
   color: #006400;
