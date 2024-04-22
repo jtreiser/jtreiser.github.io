@@ -3,7 +3,7 @@
 a {
   background-color: #eee; /* Grey background color */
   color: black; /* Black text color */
-  padding: 12px; /* Add some padding */
+  padding: 12px;
   text-decoration: none; /* Remove underline from links */
 }
 
