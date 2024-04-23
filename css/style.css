@@ -5,6 +5,9 @@
 }
 body {
   background-color: #d3d3d3;
+  font-family: "Poppins", sans-serif;
+  font-weight: 275;
+  font-style: normal;
 }
 menu {
   list-style: none;
