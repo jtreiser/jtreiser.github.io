@@ -1,17 +1,19 @@
+.margin {
+  margin: auto;
+  padding: 12;
+  width: 1280px
+}
 body {
   background-color: #d3d3d3;
 }
 menu {
   list-style: none;
 }
-
-div, body{
-margin: auto;
+div, body {
 padding: 12px ;
 color: #006400;
 }
-
-menu a,
+menu a, 
 footer a {
   color: #006400;
   text-decoration: none;
