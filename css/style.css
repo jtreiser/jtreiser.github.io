@@ -1,6 +1,6 @@
 .margin {
   margin: auto;
-  padding: 12;
+  padding: 12px;
   width: 1280px
 }
 body {
@@ -23,6 +23,9 @@ footer a {
 }
 menu a:hover {
   background-color: #ccc; /* Dark grey background on mouse-over */
+}
+iframe {
+  padding: 30px;
 }
 footer a {
   padding: 12px; 
