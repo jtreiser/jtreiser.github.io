@@ -25,6 +25,9 @@ footer a {
 menu a:hover {
   background-color: #ccc; /* Dark grey background on mouse-over */
 }
+ul {
+  list-style: none;
+}
 iframe {
   padding: 30px;
 }
