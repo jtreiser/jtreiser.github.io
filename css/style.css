@@ -38,7 +38,10 @@ ul {
   width: 560px;
   margin: auto;
   padding: 100px;
-  
+}
+.emph {
+  color: #8b0000;
+  font-weight: 900;
 }
 footer a {
   padding: 12px; 
