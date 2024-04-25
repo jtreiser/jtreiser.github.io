@@ -43,6 +43,12 @@ ul {
   color: #8b0000;
   font-weight: 900;
 }
+.pic-container {
+  display: flex;
+  flex-direction: table-row;
+  flex-wrap: wrap;
+  justify-content: space-evenly; 
+}
 footer a {
   padding: 12px; 
 }
