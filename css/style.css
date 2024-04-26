@@ -23,11 +23,12 @@ h2 {
 menu {
   list-style: none;
 }
-div, body {
-padding: 12px ;
-color: #006400;
+div,
+body {
+  padding: 12px;
+  color: #006400;
 }
-menu a, 
+menu a,
 footer a {
   color: #006400;
   text-decoration: none;
@@ -51,10 +52,10 @@ ul {
   display: flex;
   flex-direction: table-row;
   flex-wrap: wrap;
-  justify-content: space-evenly; 
+  justify-content: space-evenly;
 }
 footer a {
-  padding: 12px; 
+  padding: 12px;
 }
 a:hover {
   border-bottom: 2px solid #006400;
